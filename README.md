@@ -1,6 +1,7 @@
 # Local-Port-Checker
 A Python utility to check the status (open/closed) of local ports on your machine.
 This tool helps in troubleshooting network connectivity and verifying which ports are currently available or in use.
+Though it was made to find the port where the oracle database is running.
 
 ## Features
 - Check if a specific port is open or closed
