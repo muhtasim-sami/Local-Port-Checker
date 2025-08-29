@@ -28,4 +28,3 @@ This tool helps in troubleshooting network connectivity and verifying which port
 
 ## Requirements
 - Python 3.x
-- 
