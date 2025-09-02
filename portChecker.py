@@ -11,6 +11,7 @@ for port in ports:
     try:
         response = requests.get(f"http://127.0.0.1:{port}/apex", timeout=5)
         if response.headers['Server'] == 'Oracle XML DB/Oracle Database':
-            print(f"Port {port} is open")
+            print(f"Port {port} is running oracle db")
     except :
         pass
+
