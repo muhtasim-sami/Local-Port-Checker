@@ -20,7 +20,7 @@ Though it was made to find the port where the oracle database is running.
      ```
    - **subprocess** is part of Python’s standard library and does not require installation. You can import it directly in your code:
      ```
-     import subprocess
+     pip install subprocess
      ```
 4. Run the script:
    ```
